@@ -23,3 +23,11 @@ You should start by rendering a single month view of a calendar for the current 
 
 * The data should be retained across different page views, but it’s not necessary to persist it beyond a browser refresh.
 * This is a coding activity and not a design activity. That’s not to say we don’t appreciate good design or that we don’t value those skills if you have them! It’s just that it won’t have a high value when scoring this particular project.
+
+## F.A.Q.
+
+### How do you evaluate the exercise?
+Our evaluation is based on many aspects, such as general approach adopted, quality of code, use of best practices, capabilities to keep the code simple and maintainable.
+
+### How can I deliver the exercise?
+To deliver the exercise, you should clone this repository and work on a new branch. When you'll consider it completed, just push the branch and open a Pull Request.
