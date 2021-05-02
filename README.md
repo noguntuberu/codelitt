@@ -27,20 +27,20 @@ You should start by rendering a single month view of a calendar for the current 
 
 ## Evaluation
 
-| Functionality    |                                                            | Possible Points |
-|------------------|------------------------------------------------------------|-----------------|
-|                  | Matching the proposed requirements                         | 25              |
-|                  | Not displaying console errors                              | 10              |
-|                  | User Experience                                            | 15              |
-| **Code Quality** |                                                            | --              |
-|                  | Code formatting, readability, maintainability, etc         | 10              |
-|                  | Folders and packages structure                             | 5               |
-|                  | Separation of responsibilities (components and containers) | 25              |         
-| **Testing**      |                                                            | --              |
-|                  | Unit tests - Components                                    | 5               |
-|                  | Unit tests - Redux                                         | 5               |
-| **Total**        |                                                            | 100             |
-
+| Functionality     |                                                            | Possible Points |
+|-------------------|------------------------------------------------------------|-----------------|
+|                   | Matching the proposed requirements                         | 25              |
+|                   | Not displaying console errors                              | 10              |
+|                   | User Experience                                            | 15              |
+| **Code Quality**  |                                                            | --              |
+|                   | Code formatting, readability, maintainability, etc         | 10              |
+|                   | Folders and packages structure                             | 10              |
+|                   | Separation of responsibilities (components and containers) | 20              |
+| **Testing**       |                                                            | --              |
+|                   | Has tests                                                  | 5               |
+| **Documentation** |                                                            | --              |
+|                   | Has a README.md with instructions                          | 5               |
+| **Total**         |                                                            | 100             |
 
 ## F.A.Q.
 
@@ -55,5 +55,3 @@ To deliver the exercise, you should clone this repository and work on a new bran
 
 ### Will I have access to the evaluation?
 By default we only send the result, however you can feel free to request the full evaluation and we will share it with you as well as the final score.
-
-
