@@ -1,7 +1,6 @@
 ## Instructions
 
-The goal of this exercise is to create a demo calendar application using React. We strongly recommend create-react-app to make the bootstrapping of your application really easy.
-
+The goal of this exercise is to create a demo calendar application using VueJS.
 Please don't use a `calendar` library, we would like to see your own calendar logic.
 
 
