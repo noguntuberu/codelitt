@@ -27,20 +27,24 @@ You should start by rendering a single month view of a calendar for the current 
 
 ## Evaluation
 
-| Functionality     |                                                            | Possible Points |
-|-------------------|------------------------------------------------------------|-----------------|
-|                   | Matching the proposed requirements                         | 25              |
-|                   | Not displaying console errors                              | 10              |
-|                   | User Experience                                            | 15              |
-| **Code Quality**  |                                                            | --              |
-|                   | Code formatting, readability, maintainability, etc         | 10              |
-|                   | Folders and packages structure                             | 10              |
-|                   | Separation of responsibilities (components and containers) | 20              |
-| **Testing**       |                                                            | --              |
-|                   | Has tests                                                  | 5               |
-| **Documentation** |                                                            | --              |
-|                   | Has a README.md with instructions                          | 5               |
-| **Total**         |                                                            | 100             |
+| Functionality     |                                                              | Possible Points |
+|-------------------|--------------------------------------------------------------|-----------------|
+|                   | Matches the proposed requirements                            | 25              |
+|                   | Console do not display any error/warning                     | 10              |
+|                   | User Experience                                              | 15              |
+| **Code Quality**  |                                                              | --              |
+|                   | Code format, readability, maintainability, etc.              | 10              |
+|                   | Folders and packages structure                               | 10              |
+|                   | Separation of components and logic by clear responsibilities | 20              |
+| **Testing**       |                                                              | --              |
+|                   | Has tests                                                    | 5               |
+| **Documentation** |                                                              | --              |
+|                   | Has a README.md with instructions                            | 5               |
+| **Total**         |                                                              | 100             |
+
+### Bonus Points:
+1. If you deploy the application in any server and share the link with us
+2. If provide thoughts on what you could improve on your code given more time and incentives
 
 ## F.A.Q.
 
