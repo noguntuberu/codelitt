@@ -14,6 +14,9 @@ The goal of this exercise is to create a demo calendar application using React.
 * Expand the calendar to support more than the current month.
 
 ### GET STARTED
+1. visit [Open Site](https://xenodochial-bhaskara-6891ac.netlify.app/)
+
+OR
 
 1. clone the repository: `git glone https://gitlab.com/codelittinc/react-interview-project-nathan-oguntuberu.git`.
 2. cd into app folder.
