@@ -1,0 +1,61 @@
+/**/
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100vw;
+    height: 100vh;
+    padding: 0 20px;
+
+    background: rgba(0, 0, 0, 0)
+}
+
+.modalBody {
+    width: auto;
+
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.modalHeader {
+    display: inline-flex;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 10px;
+}
+
+.modalTitle {
+    min-width: 350px;
+    width: auto;
+    float: left;
+}
+
+.modalTitle h5 {
+    text-align: left;
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.closeIcon {
+    position: relative;
+    top: -10px;
+    width: auto;
+    float: right;
+
+    font-size: 25px;
+    color: #666666;
+    cursor: pointer;
+}
+
+@media screen and (min-width:481px){
+    .modal {
+        padding: 0 50px;
+        z-index: 9999;
+    }
+}

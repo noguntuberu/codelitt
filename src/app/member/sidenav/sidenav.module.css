@@ -1,0 +1,68 @@
+/**/
+
+.sidenav {
+  float: left;
+  height: 92vh;
+  width: 300px;
+  padding: 20px;
+}
+
+.formRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.btnRow {
+  margin-top: 20px;
+}
+
+.formRow input {
+  padding: 10px;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid var(--neutral-dark-2);
+  background-color: var(--neutral-light-2);
+  color: var(--neutral-dark-1);
+  cursor: pointer;
+}
+
+input.datePicker {
+  border: none;
+  width: 100px;
+  margin-left: 5px;
+  padding: 0 2.5px;
+  height: 40px;
+}
+
+.formRow button {
+  border-radius: 3px;
+  width: 49%;
+  line-height: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.formRow button:disabled {
+  cursor: not-allowed;
+}
+
+.cancelBtn {
+  border: 1px solid var(--app-danger);
+  background-color: var(--neutral-light-3);
+  color: var(--app-danger);
+}
+
+.saveBtn {
+  border: 1px solid var(--app-blue-primary);
+  background-color: var(--app-blue-primary);
+  color: var(--neutral-light-3);
+}
+
+.saveBtn:disabled {
+  border-color: var(--app-blue-primary-disabled);
+  background-color: var(--app-blue-primary-disabled);
+}
